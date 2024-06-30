@@ -30,7 +30,7 @@ load("data.RData")
 load("~/Project-2024/solarProject/solarGripObject.RData")
 ```
 
-# Abstract 
+# Abstract
 
 This report offers a detailed analysis of daily solar energy data collected from 64 distinct locations within our facility over one year. Each location, including SKH 1(MANDIR), N1, R1, and W1&2(A), provides insights into spatial orientation and operational characteristics affecting solar energy utilization. Functional areas like N4 AAC& DAC, N5&NAS(CANTEEN), and organizational units such as LADIES SEVADAL, RADIO SAI AUDIO, and specialized facilities (PLANETORIUM & STP &PSN1) are also examined for their energy consumption patterns.
 
