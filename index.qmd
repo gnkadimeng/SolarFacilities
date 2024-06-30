@@ -27,7 +27,7 @@ library(timetk)
 load("df_numericVars.RData")
 load("solarData.RData")
 load("data.RData")
-load("solarGripObject.RData")
+load("~/Project-2024/solarProject/solarGripObject.RData")
 ```
 
 # Abstract
